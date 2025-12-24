@@ -1,2 +1,2 @@
 # haze
-I tried all those minimal text editors:
+After exploring minimalist text editors like nano, vim, vi, and emacs, I was inspired by their elegant code architecture and efficient design. While each offers unique strengths, I wanted to create a text editor that combines simplicity with extensibility. Haze began as a personal development project for now, and it will evolve into an open-source platform where developers can contribute and extend functionality.
